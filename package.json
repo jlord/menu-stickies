@@ -1,0 +1,17 @@
+{
+  "name": "menu-stickies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "menubar": "^4.0.2"
+  },
+  "devDependencies": {
+    "electron-prebuilt": "^0.37.2"
+  }
+}
